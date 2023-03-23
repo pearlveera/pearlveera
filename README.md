@@ -153,11 +153,6 @@
 
 <br/>
 
-### Support my Work
-# <br/>
-# <a href="https://www.buymeacoffee.com/pearlveera"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
-# $<br /> ##
-
 ### My GitHub Stats
 
 <table>
