@@ -1,8 +1,17 @@
 ### Hi, I'm Veera <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <!--
-**pearlveera/pearlveera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<table>
+<tr>
+  <td valign="center">
+    🎓 Seasoned Supply Chain professional and a technical leader with expertise in Product Management, Artificial Intelligence (AI), Data Engineering; Supply Chain, Environmental, Social, and Governance (ESG), Software Development, DevOps, I am passionate about driving innovation and sustainability within organizations.
+    🌱 
+<td >
+# this is my daily.dev card, you can edit this accordingly
+    <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
+  </td>
+</tr>
+</table>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
