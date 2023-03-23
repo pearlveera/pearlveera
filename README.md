@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Veera
+# Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Veera
 
 ### Tech & Product Leader
 
