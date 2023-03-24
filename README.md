@@ -18,7 +18,7 @@
             <a href="https://mveera.weebly.com/">🌐</a>
         </td>
         <td>
-            <a href="https://drive.google.com/file/u/2/d/1GPFRKhhfaeGK5sLKVdf7DatY3gywyagn/view?usp=share_link">📃</a>
+            <a href="https://drive.google.com/file/d/1xm9rgaxXcjrTAUkNDiBkq42gjBpv85jB/view?usp=share_link">📃</a>
         </td>
     </tr>
 </table>
